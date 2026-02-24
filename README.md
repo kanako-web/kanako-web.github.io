@@ -1,6 +1,7 @@
-This is Kanako's website.
-It is accessed via a web-browser at:
+This is the **src** (source) for Kanako's website. These webpages are written in Markdown.
 
-https://kanako-web.github.io
+The Nikola application will place the website in the **Main** branch.
+
+Access via browser to the website is at: https://kanako-web.github.io
 
 
