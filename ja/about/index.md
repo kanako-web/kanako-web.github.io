@@ -9,9 +9,7 @@ type: text
 hidetitle: false
 ---
 
- -->
-
-このウェブサイトはKanakoによって管理されています。
+カナコはこのウェブサイトを管理しています。
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[⬅️](/ja/)
